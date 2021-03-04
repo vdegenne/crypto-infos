@@ -1,6 +1,6 @@
 ## Tier List
 
-| Tier list | Token           | €          |
+| TIER LIST | TOKEN           | €          |
 |-----------|-----------------|------------|
 | S tier    |                 |            |
 | A tier    |                 |            |
