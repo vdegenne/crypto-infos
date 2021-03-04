@@ -1,6 +1,6 @@
 # Smart Contracts
 
-- Solidity (Ethereum)
+- Solidity: Ethereum
 - WASM
-- Rust (NEAR)
-- Cadence
+- Rust: NEAR
+- Cadence: Flow
